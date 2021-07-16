@@ -39,6 +39,7 @@ webpack_config 'webpack.config.js'
 ### Credits
 
 - [FiveM TS Boilerplate](https://github.com/d0p3t/fivem-ts-boilerplate)
+- [NativeUI in Javascript (Typescript Compatible)](https://github.com/PichotM/FiveM-NativeUI)
 - [QBCore Framework](https://github.com/qbcore-framework)
 
 ### License
